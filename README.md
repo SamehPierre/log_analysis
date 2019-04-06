@@ -39,8 +39,8 @@ README.md - This read me file.
 After installing VirtualBox and Vagrant you will need to use GitBash or command prompt for windows, terminal screen in Linux, browse to the  project directory.
 
 ## Start the virtual machine:
-From your terminal, run the command "vagrant up". It should take awhile for the first time in order to download the vm image.
-Then you can log into the VM by using this following command "vagrant ssh".
+From your terminal, run the command ###### vagrant up. It should take awhile for the first time in order to download the vm image.
+Then you can log into the VM by using this following command ###### vagrant ssh.
 
 ## Download the DataBase:
 ### You can download the database from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
