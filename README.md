@@ -31,11 +31,11 @@ VirtualBox from **_[here](https://www.virtualbox.org/wiki/Downloads)_**
 ### This project consists of the following files:
 
 newsdatadb.py 
-#### The Python program that connects to the PostgreSQL database, executes the SQL queries and displays the results.<br />
+##### The Python program that connects to the PostgreSQL database, executes the SQL queries and displays the results.<br />
 output.txt 
-#### A plain text file that is a copy of program's output. <br />
+##### A plain text file that is a copy of program's output. <br />
 README.md 
-#### This read me file.
+##### This read me file.
 
 
 ## How to Run it:
