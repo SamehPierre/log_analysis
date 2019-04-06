@@ -24,8 +24,8 @@ Results days in which more than 1% of requests lead to errors
 For this you will need Vagrant and VirtualBox software installed on your system.
 You can find:
 
-Vagrant from [here](https://www.vagrantup.com/downloads.html)
-VirtualBox from [here](https://www.virtualbox.org/wiki/Downloads)
+Vagrant from _[here](https://www.vagrantup.com/downloads.html)_** <br />
+VirtualBox from _**[here](https://www.virtualbox.org/wiki/Downloads)
 
 ## Project contents
 ### This project consists of the following files:
