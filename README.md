@@ -39,11 +39,11 @@ README.md - This read me file.
 After installing VirtualBox and Vagrant you will need to use GitBash or command prompt for windows, terminal screen in Linux, browse to the  project directory.
 
 ## Start the virtual machine:
-From your terminal, run the command ###### vagrant up. It should take awhile for the first time in order to download the vm image.
+From your terminal, run the command <h6> vagrant up</h6>. It should take awhile for the first time in order to download the vm image.
 Then you can log into the VM by using this following command ###### vagrant ssh.
 
 ## Download the DataBase:
-### You can download the database from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
+#### You can download the database from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 You will need to unzip this file after downloading it. The file inside is called newsdata.sql. Put this file into the vagrant directory, which is shared with your virtual machine.
 
 cd into the vagrant directory and use the command 
