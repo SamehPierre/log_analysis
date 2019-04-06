@@ -46,7 +46,7 @@ Then you can log into the VM by using this following command:
 ###### vagrant ssh.
 
 ## Download the DataBase:
-#### You can download the database from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
+#### You can download the database from **_[here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)_**
 You will need to unzip this file after downloading it. The file inside is called newsdata.sql. Put this file into the vagrant directory, which is shared with your virtual machine.
 
 cd into the vagrant directory and use the command 
