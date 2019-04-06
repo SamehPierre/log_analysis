@@ -25,7 +25,7 @@ For this you will need Vagrant and VirtualBox software installed on your system.
 You can find:
 
 Vagrant from _[here](https://www.vagrantup.com/downloads.html)_** <br />
-VirtualBox from _**[here](https://www.virtualbox.org/wiki/Downloads)
+VirtualBox from _[here](https://www.virtualbox.org/wiki/Downloads)_**
 
 ## Project contents
 ### This project consists of the following files:
