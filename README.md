@@ -30,8 +30,8 @@ VirtualBox from **_[here](https://www.virtualbox.org/wiki/Downloads)_**
 ## Project contents
 ### This project consists of the following files:
 
-newsdatadb.py - The Python program that connects to the PostgreSQL database, executes the SQL queries and displays the results.
-output.txt - A plain text file that is a copy of program's output. 
+newsdatadb.py - The Python program that connects to the PostgreSQL database, executes the SQL queries and displays the results.<br />
+output.txt - A plain text file that is a copy of program's output. <br />
 README.md - This read me file.
 
 
@@ -40,7 +40,7 @@ After installing VirtualBox and Vagrant you will need to use GitBash or command 
 
 ## Start the virtual machine:
 From your terminal, run the command: 
-###### vagrant up 
+###### vagrant up <br />
 It should take awhile for the first time in order to download the vm image.
 Then you can log into the VM by using this following command:
 ###### vagrant ssh.
