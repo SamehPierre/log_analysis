@@ -5,20 +5,20 @@
 Its a reporting tool that will use information from the database to discover what kind of articles the site's readers like in a newspaper website.
 
 ## It has three functions:
-1. **popular_three_articles().
+1. **popular_three_articles().**
 Results are the most popular three articles of all time.
 
-2. **popular_authors().
+2. **popular_authors().**
 Results are the most popular article authors of all time.
 
-3. **more_than_one_percent().
+3. **more_than_one_percent().**
 Results days in which more than 1% of requests lead to errors
 
 
 ## The project code requires the following software:
-**Python 3.7 <br />
-psql (PostgreSQL) 9.5.16 <br />
-vagrant 2.2.4 <br />
+**Python 3.7** <br />
+**psql (PostgreSQL) 9.5.16** <br />
+**vagrant 2.2.4** <br />
 
 
 For this you will need Vagrant and VirtualBox software installed on your system.
