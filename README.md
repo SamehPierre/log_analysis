@@ -24,8 +24,8 @@ vagrant 2.2.4
 For this you will need Vagrant and VirtualBox software installed on your system.
 You can find:
 
-Vagrant (https://www.vagrantup.com/downloads.html "here");
-VirtualBox here https://www.virtualbox.org/wiki/Downloads
+Vagrant [here](https://www.vagrantup.com/downloads.html);
+VirtualBox [here] (https://www.virtualbox.org/wiki/Downloads)
 
 ## Project contents
 ### This project consists of the following files:
