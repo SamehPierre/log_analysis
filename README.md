@@ -16,7 +16,7 @@ Results days in which more than 1% of requests lead to errors
 
 
 ## The project code requires the following software:
-**Python 3.7** <br />
+**Python 2.7** <br />
 **psql (PostgreSQL) 9.5.16** <br />
 **vagrant 2.2.4** <br />
 
@@ -62,7 +62,7 @@ This command will connect to the database server and exeute query which will cre
 ## Now Everything is Setting up:
 
 You can run the reporting tool using this command 
-###### python3 newsdata.py
+###### python newsdata.py
 
 ## Logging Out from the VM:
  press Ctrl-D, then shut down use this command "vagrant halt" 
